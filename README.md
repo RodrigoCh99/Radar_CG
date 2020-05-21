@@ -10,9 +10,15 @@
 !['primeiras rotinas'](imgs/primitivas_1.png)
 
 ## Checklist:
-- [] Primitiva Ponto.
-- [] Primitiva Reta.
-- [] Círculo.
-- [] Avião.
-- [] Texto.
-- [] Preenche.
+
+- [ ] Primitiva Ponto
+
+- [ ] Primitiva Reta
+
+- [ ] Circulo
+
+- [ ] Aviao
+
+- [ ] Texto
+
+- [ ] Preenche
