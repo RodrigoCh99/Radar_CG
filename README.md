@@ -14,10 +14,15 @@
 - graphics.py==5.0.1.post1
 - virtualenv==20.0.17
 
-instale o graphics.py:
+## Instalações:
+
+- instale o graphics.py:
 **pip install graphics.py**
 
-instale a virtualenv de acordo com seu sistema operacional, para iniciar, 
+- instale a virtualenv:
+**pip install virtualenv**
+
+## Abrindo o ambiente virtual:
 entre na raiz do projeto no seu sistema e faça:
 <br>
 **source ambiente_cg.py/bin/activate**
