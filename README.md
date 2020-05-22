@@ -22,8 +22,8 @@
 - instale a virtualenv:
 **pip install virtualenv**
 
-## Abrindo o ambiente virtual:
-entre na raiz do projeto no seu sistema e faça:
+## Ativando o ambiente virtual:
+clone esse repositorio no seu sistema operacional. Na raiz do projeto no seu sistema e faça:
 <br>
 **source ambiente_cg.py/bin/activate**
 
